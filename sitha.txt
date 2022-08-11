@@ -9,3 +9,6 @@ am a docker tranier
 am a jenkines tranier
 am a git and git hub tranier
 
+
+
+Note: the description for this image is longer than the Hub length limit of 25000, so has been trimmed. The full description can be found at https://github.com/docker-library/docs/tree/master/postgres/README.md. 
